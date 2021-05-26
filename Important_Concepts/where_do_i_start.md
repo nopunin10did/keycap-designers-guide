@@ -4,6 +4,6 @@
 
 Blah blah text goes here
 
-[Next Page](./colours.md)
+Next: [Colours](./colours.md)
 
 *[Section Index](./index.md)*
