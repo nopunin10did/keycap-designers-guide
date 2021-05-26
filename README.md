@@ -2,7 +2,6 @@
 The official guide to the process of designing custom keycaps for mechanical keyboards, as maintained by the members &amp; mods of the Keycap Designers' Discord Server.
 
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
