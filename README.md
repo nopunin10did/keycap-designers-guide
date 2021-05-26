@@ -3,7 +3,9 @@ The official guide to the process of designing custom keycaps for mechanical key
 
 [Forward](./forward.md)
 1. [Important Concepts](./Important_Concepts/index.md)
-
+1. [The Process](./The_Process/index.md)
+1. [Miscellaneous](./Miscellaneous/index.md)
+1. [Comprehensive Kitting Guide](./Comprehensive_Kitting/index.md)
 
 
 This work is licensed under a
