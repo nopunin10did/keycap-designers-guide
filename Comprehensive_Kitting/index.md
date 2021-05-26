@@ -1,7 +1,8 @@
 # Comprehensive Kitting Guide
 (stub)
 
-Insert summary here
+Kitting is the basis on which anyone who buys your set will know what kits to buy. blah blah blah
+
 
 Add sections to the list following this example:
 ```- [This Page](./index.md)```
