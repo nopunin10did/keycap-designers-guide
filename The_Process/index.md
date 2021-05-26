@@ -39,22 +39,21 @@ IC Feedback & Finalizing
 This may seem self-explanatory however it's now time to go through the feedback you received from your IC and identify what you should and shouldn’t be working on and making revisions accordingly. 
 
 Before we move on there are some things we need to do. So what else do you need to consider? Well, you should have an idea of when you want to run your set either by month or financial quarter, what regions you want to cover, and a final decision on your chosen colours. Once you have finalized your kitting this would be a good time to start asking for quotes from manufacturers either through vendors or directly (See: Manufacturers shopping list for further details). 
-##Finding Vendors##
 
-###Contacting Vendors###
+### Contacting Vendors
 Typically, the best way to contact a vendor is via Discord DMs or email. All vendors and designers have different preferences, and may want you to email them or use a different way of contact.
 
-###Contracts###
+### Contracts
 Some vendors require you to sign a contract, and some do not require it, but if you are required to sign a contract, read it over multiple times and loop other people in. Family, friends, lawyers, and other designers are all good choices.  As I’m sure you are aware, and if you aren't, contracts are very important to any business as the written out specific terms and condition between two separate parties. It is your responsibility to check over your contract so that you know what you are agreeing to. If you run in and sign a contract without first reading you may be agreeing to terms or conditions that unknowingly favour one party heavily, leading to unfavorable scenarios one might not have considered. Where you are unsure about any aspect of your contract ask questions to seek clarification in writing. If you don't like something, negotiate for better terms before you sign it. If you are a minor, please take the steps to protect yourself by being open about your age with whomever you are signing the contract for, so they can change the contract accordingly. This protects both yourself and the vendor
 
-###Profit Splits###
+### Profit Splits
 Profit split varies by vendor -- it's reasonable to expect to walk away with 30-50% of the net profits. Some vendors offer sliding scales, others pay flat rates per kits, and yet others offer a percentage of net sales. There's no right or wrong pay scale and this should not be the determining factor when selecting vendors. Don't shy away from making deals with large vendors because they typically have a smaller profit split, as they typically bring in many more sales.
 
-###Deciding on Vendors###
+### Deciding on Vendors
 There's no rule to selecting vendors, honestly. I recommend looking at vendors you feel that you and your set are a good match for... not just the biggest ones. Often, smaller vendors sell just as well as larger ones. Likewise, there is more to working with a vendor than sales and profit splits -- think of it more as a partnership. You should want a vendor that will support you and do everything they can to make sure your set will happen. Also, consider finding a vendor you'd like to work with on future products.
 
 
-###What Regions Should You Support###
+### What Regions Should You Support
 At minimum, you should have vendors covering US, Canada, UK, Europe, Oceania, and Asia. Asia can be further broken down into Korea, SEA, Japan, China, etc if you so choose.  All other regions are optional and are up to you whether you should include them.
 
 Add sections to the list following this example:
