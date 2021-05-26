@@ -1,4 +1,5 @@
-# Index for (directory?)
+# Miscellaneous
+(stub)
 
 Insert summary here
 

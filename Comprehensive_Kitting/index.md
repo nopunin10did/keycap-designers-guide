@@ -1,4 +1,5 @@
-# Index for (directory?)
+# Comprehensive Kitting Guide
+(stub)
 
 Insert summary here
 
