@@ -4,6 +4,6 @@ It's likely that you already have an idea of the set you want to create, but bef
 
 By reading this document, you should gain the required knowledge to take a keycap set from the Design stage to a successful Group buy.
 
-Next: [Colours](./colours.md)
+Next: [Colors](./colors.md)
 
 *[Section Index](./index.md)*
