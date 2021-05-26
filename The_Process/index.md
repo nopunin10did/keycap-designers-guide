@@ -56,6 +56,30 @@ There's no rule to selecting vendors, honestly. I recommend looking at vendors y
 ### What Regions Should You Support
 At minimum, you should have vendors covering US, Canada, UK, Europe, Oceania, and Asia. Asia can be further broken down into Korea, SEA, Japan, China, etc if you so choose.  All other regions are optional and are up to you whether you should include them.
 
+### Lead Vendors
+A lead vendor is the vendor that will be handling communications between you and the manufacturer, such as sending in your kits for quoting, setting MOQ's, etc. Your lead vendor will typically be the vendor you've selected in your region, but there are certain circumstances where you may have a different region as your lead vendor, such as if your regional vendor does not meet the requirements to be a lead vendor. For ePBT, KBDFans will be your lead vendor, as they are the only ones who communicate with them.
+
+## List of Vendors for Each Region
+#### Note: This list is by no means exhaustive, and does not contain all vendors. Do your own research before choosing vendors.
+1.NA
+  1. [Cannonkeys] (https://cannonkeys.com/)
+  2. [Dangkeebs] (https://dangkeebs.com/)
+  3. [Drop] (https://drop.com/)
+  4. [Kono] (https://kono.store/)
+  5. [Mechs and Co] (https://mechsandco.com/)
+  6. [Panc] (https://panc.co/)
+  7. [Minterly] (https://www.minterlystudios.com/)
+  8. [NovelKeys_] (https://novelkeys.xyz/)
+  9. [Originative] (https://www.originativeco.com/)
+  10. [Prime Keyboards] (https://www.primekb.com/)
+  11. [Project Keyboard] (https://store.projectkeyboard.com/)
+  12. [Space Cables] (https://spacecables.net/)
+  13. [Switch Mod] (https://switchmod.net/)
+  14. [The Key Company] (https://thekey.company/)
+  15. [Mekibo] (https://mekibo.com/)
+  16. [Vala Supply] (https://vala.supply/)
+2. EU
+
 Add sections to the list following this example:
 ```- [This Page](./index.md)```
 
