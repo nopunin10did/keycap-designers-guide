@@ -18,3 +18,4 @@
 | Yeti | Axol Studio | [Link](https://github.com/axolstudio-ca/Yeti) | |
 | GMMK Pro | Elmo (design by GPCGR) | [Link](https://drive.google.com/drive/folders/1hpBeervBWlSyVlzBdpRBDStxWFxXpy9C?usp=sharing) | |
 | Curved-grip HHKB | DaleSnail | [Link](https://github.com/dalesnail/HHKB-Curved-Grip-KB-Case) | |
+| Alchemist Keyboards | Alchemist Keyboards | [Link](https://www.alchemistkeyboards.com/render-files) | |
