@@ -2,21 +2,21 @@
 
 (stub)
 
-|  | Designer | Link | Notes |
+|  | Credit | Link | Notes |
 | --- | --- | --- | --- |
-| Rama | | | |
-| Keyhive | | | |
-| TKC | | | |
-| Mekanisk | | | |
-| Charlotte | | | |
-| Isometria | | | |
-| Prototypist | | | |
-| Nemui | | | |
-| Dingusxmcgee | | | |
-| Haus | | | |
-| Pillow65 | | | |
-| Misonoworks | | | |
-| Trinitia | | | |
-| Yeti | | | |
-| GMMK Pro | | | |
-| Curved-grip HHKB | | | |
+| Rama | Rama | | |
+| Keyhive | Keyhive | | |
+| TKC | TKC | | |
+| Mekanisk | Mekanisk | | |
+| Charlotte | KraizesGB | | |
+| Isometria | Ebastler | | |
+| Prototypist | Prototypist | | |
+| Nemui | Bachoo | | |
+| Dingusxmcgee | Honk / Dingusxmcgee | | |
+| Haus | Lewis Flude / Hand Engineering | | |
+| Pillow65 | Foggy | | |
+| Misonoworks | Misonoworks | | |
+| Trinitia | Pupper | | |
+| Yeti | Axol Studio | | |
+| GMMK Pro | Elmo (design by GPCGR) | | |
+| Curved-grip HHKB | DaleSnail | | |
