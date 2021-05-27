@@ -1,7 +1,5 @@
 # Board Render Files
 
-(stub)
-
 |  | Credit | Link | Notes |
 | --- | --- | --- | --- |
 | Rama | Rama | [Link](https://files.rama.supply/b/7vYJcwbrMFwi3eLZ4GnQ) | |
