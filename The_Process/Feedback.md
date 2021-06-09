@@ -9,6 +9,6 @@ There are a number of places you can ask for feedback, however you're likely to 
 At this point in time, what you want is a good solid foundation. Be it a set of colors, or simply an inspiration, you can receive inspiration from others and shape your set to be the best it can be.
 This is also a good place to get a name/settle on a name for your set. The name is one of the few things I would not recommend changing after starting an IC. This just helps people keep track of your set easily and gives some sense of identity.
 
-[TBD](./TBD.md)
+[The IC](./InterestCheck.md)
 
 *[Section Index](./index.md)*
